@@ -31,3 +31,13 @@ input {
 button {
   margin-left: 20px !important;
 }
+
+i {
+  color: red !important;
+}
+
+p {
+  font-weight: bold;
+  display: inline !important;
+  margin: 10px;
+}
